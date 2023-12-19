@@ -2,7 +2,7 @@
 This Repo includes SWCs for Mega project 1, the project interface between NucleoF446RE board and Blue Pill board
 
 # Main function:
- Developed an Advanced Timekeeping System integrating NucleoF446RE and Blue Pill boards, featuring user authentication, real-time clock functionality, and alarm management. Implemented communication protocols (USART, I2C, SPI) and modularized software components for seamless interaction between terminal, Nucleo board, RTC module, and Blue Pill board.
+ Advanced Timekeeping System integrating NucleoF446RE and Blue Pill boards, featuring user authentication, real-time clock functionality, and alarm management. Implemented communication protocols (USART, I2C, SPI) and modularized software components for seamless interaction between terminal, Nucleo board, RTC module, and Blue Pill board.
 
 # System consists of:
 1. Terminal using Putty
